@@ -36,6 +36,45 @@ npm install -g @angular/cli
 
 C:\Users\gopalakrishnanc\AppData\Roaming\npm;C:\Users\gopalakrishnanc\AppData\Roaming\npm\node_modules\@angular\cli\bin;
 
+Node and CLI Version
+----------------------
+
+C:\Users\gopalakrishnanc>node --version
+v8.9.1
+
+C:\Users\gopalakrishnanc>
+C:\Users\gopalakrishnanc>ng version
+
+     _                      _                 ____ _     ___
+    / \   _ __   __ _ _   _| | __ _ _ __     / ___| |   |_ _|
+   / △ \ | '_ \ / _` | | | | |/ _` | '__|   | |   | |    | |
+  / ___ \| | | | (_| | |_| | | (_| | |      | |___| |___ | |
+ /_/   \_\_| |_|\__, |\__,_|_|\__,_|_|       \____|_____|___|
+                |___/
+
+
+Angular CLI: 7.2.0
+Node: 8.9.1
+OS: win32 x64
+Angular:
+...
+
+Package                      Version
+------------------------------------------------------
+@angular-devkit/architect    0.12.0
+@angular-devkit/core         7.2.0
+@angular-devkit/schematics   7.2.0
+@schematics/angular          7.2.0
+@schematics/update           0.12.0
+rxjs                         6.3.3
+typescript                   3.2.2
+
+
+C:\Users\gopalakrishnanc>
+
+
+
+
 PATH
 ----
 C:\Softwares\node-v8.9.1-win-x64\;C:\Softwares\apache-maven-3.1.1\bin\;C:\Users\gopalakrishnanc\AppData\Roaming\npm;C:\Users\gopalakrishnanc\AppData\Roaming\npm\node_modules\@angular\cli\bin;
