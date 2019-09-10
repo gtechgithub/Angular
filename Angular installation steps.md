@@ -24,6 +24,12 @@ strict-ssl=false
  
 4. now install the CLI
 
+CLI
+-----
+
+The Angular CLI is a command-line interface tool that you use to initialize, develop, scaffold, and maintain Angular applications. You can use the tool directly in a command shell, 
+
+
 npm install -g @angular/cli
 
 5. finally add the path in user environment variables
